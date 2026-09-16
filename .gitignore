@@ -1,0 +1,16 @@
+.venv/
+venv/
+yara_env/
+__pycache__/
+*.pyc
+.env
+
+backend/uploads/
+backend/build/
+backend/dist/
+
+ember_dataset_2018_2/
+node_modules/
+dist/
+
+threatlens-ai/

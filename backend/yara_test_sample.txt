@@ -1,0 +1,3 @@
+ThreatLens harmless YARA demonstration sample.
+This text contains the literal strings PowerShell, CreateProcessW, and schtasks.
+It is only data for static scanning and must never be executed.
